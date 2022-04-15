@@ -1,6 +1,6 @@
 # N-B-Apptastic
 
-<img src="N-B-Apptastic!/assets/title.png" alt="vacayBuddyScreenshot" width="500"/>
+<img src="n-b-apptastic/src/assets/title.png" alt="N-B-Apptastic Screen shot" width="500"/>
 
 ## Overview:
 
@@ -15,16 +15,15 @@ As the NBA posteseason gets ready to kick off, many fans are still debating the 
 
 #### API:
 
-- [balldontlie API](https://www.balldontlie.io/#introduction) -[NBA-Latest-Stories-API](https://nba-stories.herokuapp.com/)
+- [balldontlie API](https://www.balldontlie.io/#introduction) 
+- [NBA-Latest-Stories-API](https://nba-stories.herokuapp.com/)
 
 ## Screenshots:
 
-<img src="N-B-Apptastic!/assets/secondPage.png" alt="vacayBuddyScreenshot" width="500"/>
-<img src="N-B-Apptastic!/assets/graph.png" alt="vacayBuddyScreenshot" width="500"/>
-<img src="N-B-Apptastic!/assets/ipadVersion.png" alt="vacayBuddyScreenshot" width="500"/>
-<img src="N-B-Apptastic!/assets/vacay4.png" alt="vacayBuddyScreenshot" width="500"/>
-<img src="N-B-Apptastic!/assets/vacay5.png" alt="vacayBuddyScreenshot" width="500"/>
-<img src="N-B-Apptastic!/assets/vacay6.png" alt="vacayBuddyScreenshot" width="500"/>
+<img src="n-b-apptastic/src/assets/secondPage.png" alt="second shot" width="500"/>
+<img src="n-b-apptastic/src/assets/graph.png" alt="graph" width="500"/>
+<img src="n-b-apptastic/src/assets/ipadVersion.png" alt="iPadVersion" width="500"/>
+
 
 ## Read about our project:
 
