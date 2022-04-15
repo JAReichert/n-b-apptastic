@@ -1,6 +1,6 @@
 # N-B-Apptastic
 
-<img src="n-b-apptastic/src/assets/title.png" alt="N-B-Apptastic Screen shot" width="500"/>
+<img src="src/assets/title.png" alt="N-B-Apptastic Screen shot" width="500"/>
 
 ## Overview:
 
@@ -20,9 +20,11 @@ As the NBA posteseason gets ready to kick off, many fans are still debating the 
 
 ## Screenshots:
 
-<img src="n-b-apptastic/src/assets/secondPage.png" alt="second shot" width="500"/>
-<img src="n-b-apptastic/src/assets/graph.png" alt="graph" width="500"/>
-<img src="n-b-apptastic/src/assets/ipadVersion.png" alt="iPadVersion" width="500"/>
+<img src="/src/assets/secondPage.png" alt="second shot" width="500"/>
+
+<img src="/src/assets/graph.png" alt="graph" width="500"/>
+
+<img src="/src/assets/ipadVersion.png" alt="iPadVersion" width="500"/>
 
 
 ## Read about our project:
