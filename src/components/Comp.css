@@ -1,0 +1,127 @@
+#root {
+  box-sizing: border-box;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+#root::after {
+  content: "";
+  background: url("https://basketballforever.com/wp-content/uploads/2019/12/KOBE-BRYANT-1.jpg")
+    no-repeat center center fixed;
+  background-size: cover;
+  opacity: 0.2;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+  height: 100vh;
+  background-size: cover;
+}
+
+.oskee {
+  margin-top: 100px;
+  text-align: center;
+  max-height: 25px;
+}
+.mainContainer {
+  display: flex;
+  margin-top: 50px;
+  align-items: center;
+  flex-direction: column;
+}
+.pictureContainer {
+  display: flex;
+  margin-top: 200px;
+  max-width: 1880px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.green {
+  max-width: 250px;
+}
+.celtics {
+  max-width: 250px;
+}
+.sixers {
+  max-width: 250px;
+}
+.larry {
+  max-width: 250px;
+}
+.pete {
+  max-width: 250px;
+}
+.orl {
+  max-width: 250px;
+}
+
+.nameFieldArticle {
+  margin-bottom: 20px;
+  min-height: 40px;
+}
+
+.One {
+  margin-bottom: 10px;
+}
+
+.Two {
+  margin-top: 10px;
+}
+
+@media (max-width: 830px) {
+  .pictureContainer {
+    display: flex;
+    margin-top: 30px;
+    max-width: 820;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .green {
+    max-width: 250px;
+    display: none;
+  }
+  .celtics {
+    max-width: 250px;
+  }
+  .sixers {
+    max-width: 250px;
+  }
+  .larry {
+    max-width: 250px;
+    display: none;
+  }
+  .orl {
+    display: none;
+  }
+}
+
+@media (max-width: 375px) {
+  .pictureContainer {
+    display: flex;
+    margin-top: 60px;
+    max-width: 1200;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .green {
+    max-width: 250px;
+    display: none;
+  }
+  .celtics {
+    max-width: 250px;
+    display: none;
+  }
+  .sixers {
+    max-width: 250px;
+    display: none;
+  }
+  .larry {
+    max-width: 250px;
+    display: none;
+  }
+  .orl {
+    display: none;
+  }
+}
