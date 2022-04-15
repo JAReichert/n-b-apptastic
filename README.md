@@ -26,8 +26,26 @@ As the NBA posteseason gets ready to kick off, many fans are still debating the 
 
 <img src="/src/assets/ipadVersion.png" alt="iPadVersion" width="500"/>
 
+## How to use this app
+```
+npm install
 
-## Read about our project:
+```
+Clone the project:
+```
+git clone https://github.com/JAReichert/n-b-apptastic
+```
+cd into the project folder
+
+start the server:
+```
+npm start
+
+```
+
+
+
+## Read about my project:
 
 - To read more about our project check out [this blog post](https://dev.to/jareichert/has-this-ever-happened-to-you-1km1)!
 
