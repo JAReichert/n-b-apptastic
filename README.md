@@ -10,8 +10,8 @@ As the NBA posteseason gets ready to kick off, many fans are still debating the 
 
 - React.js
 - Redux
-- Express.js
 - CSS
+- REST API
 
 #### API:
 
