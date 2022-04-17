@@ -6,7 +6,7 @@ export default function NewButton() {
   return (
     <div>
       <Link to="/versus">
-        <button class="button-55" role="button">
+        <button class="button-55">
           Take me to the answer for all of my NBA-related problems.....
         </button>
       </Link>

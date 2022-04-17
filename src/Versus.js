@@ -140,7 +140,6 @@ class Versus extends Component {
     };
 
     const x = this.state.divcontainer;
-    const y = this.state2.divcontainer2;
 
     const { pts, ast, reb, blk } = this.state.playerStats1;
     const newDataType = {
